@@ -32,10 +32,9 @@ Then, add your configuration:
 
 ```env
 HUGGINGFACE_API_TOKEN=your_token_here
-MONGODB_URI=mongodb://localhost:27017/image-processing
+MONGODB_URI=mongodb://localhost:27017/image-labeler
 ```
 
-> ✅ **Important:** Never commit your `.env` file. It's included in `.gitignore`.
 
 ### 4. Get a Hugging Face Token
 
@@ -46,7 +45,7 @@ MONGODB_URI=mongodb://localhost:27017/image-processing
 ### 5. Start the Development Server
 
 ```bash
-npm run dev
+docker-compose up
 ```
 
 Visit the API at: `http://localhost:3000`
@@ -85,7 +84,7 @@ npm run test
 
 ## 📬 Questions?
 
-Contact: [your.email@company.com]
+Contact: [odaymard88@gmail.com]
 
 ---
 
