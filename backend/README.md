@@ -82,6 +82,21 @@ npm run test
 
 ---
 
+
+## 🔮 Future Improvements
+
+  Add pagination for image list endpoints to support large datasets
+
+  Implement robust input validation 
+
+  Enhance security by sanitizing input to prevent injection attacks
+
+  Support user authentication and authorization for multi-user environments
+
+  Introduce rate limiting to prevent abuse of the API
+
+  Add caching for frequently requested image analysis results
+
 ## 📬 Questions?
 
 Contact: [odaymard88@gmail.com]
