@@ -9,7 +9,7 @@ This backend service enables image uploads, analyzes the content using Hugging F
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/media4care/m4c-fullstack-challenge-odaymardi.git
+git clone https://github.com/odaymardi/Image-labeling-service.git
 
 cd image-processing-api
 ```
